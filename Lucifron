@@ -1,0 +1,15 @@
+Consumes: Food, Grog, Resto Pot
+
+MT: Groundad {star} 
+OT: Imlerith {circle}
+
+MT Heal: {star} Kugal, Eken and Vivetka 
+OT Heal: {circle} topekk, Methane and zatula
+
+Tactics:
+MT and OT stand 45 degree angle to each other to avoid cleave.
+Mage decurse
+Priest dispell
+
+Tips:
+Stop cleave until MC is dispelled
