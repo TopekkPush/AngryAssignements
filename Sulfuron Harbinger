@@ -1,0 +1,23 @@
+Consumes: Food, Grog, fap (melee), stoneshield (tank)
+
+Add Tank: Groundad {star} 
+Boss Tank: Imler {circle}
+
+Add Tank Heal: {star} G1, G3, G5, G7
+Boss Tank Heal: {circle} G2, G4, G6, G8
+
+
+Tactics:
+Interrupts
+{skull} Jim and Cheating
+{x} Skay and Ideal
+{square} Dusch and Guh
+{moon} kimbra and Incanus
+
+Ground collects boss and adds, Imler taunts off boss.
+Cleave hard
+
+
+Tips:
+Tank use shield wall and last stand at the start of the encounter
+Healer take care of melee tanking adds
