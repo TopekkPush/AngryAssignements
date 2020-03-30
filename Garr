@@ -1,0 +1,19 @@
+Consumes: Food, Grog, Resto Pot
+
+Add Tank: Groundad {star} 
+Boss Tank: Imlerith {circle}
+Backup: Razial {diamond}
+
+Add Tank Heal: {star} All Healer
+Boss Tank: {circle} topekk and Eken 
+
+Tactics:
+Add Tank catches all adds, dont touch anything
+Hunter distract Garr Boss Tank pick up boss
+Shaman stack buffs before pull
+Priest shield
+dps Nuke the boss then aoe adds, melee 15y range when the adds die
+
+Tips:
+Shaman buff waterwalking and breathing
+druids spam raid with r1 hots to prevent buff loss
