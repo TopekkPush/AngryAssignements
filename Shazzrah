@@ -1,15 +1,15 @@
-Consumes: Food, Grog. fpp
+Consumes: Food, Grog. app
 
 MT: Groundad {star} 
 Backup: Imlerith {circle}
 
-MT Heal: {star} Kugal, Fenrys, Methane and Haugen
-Melee Camp: Topekk, Bafos, Vivetka and Eken
+MT Heal: {star} Kugal, topekk, Methane and papapiko
 
 Tactics:
-Melee camp behind the boss
-Range and Healer spread out. /range 10
+Two camps that swap when the boss blinks. Nuke boss
+Mage / Druid decurse
+Priest / Shaman dispell 
 
 Tips:
-Tank Get 315 Fire Res
-Kill the boss in 3 min
+Watch threat after blink
+Dont get counterspell by the boss
