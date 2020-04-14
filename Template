@@ -1,15 +1,10 @@
 Consumes: 
 
-Add Tank:  {star} 
-Boss Tank:  {circle}
+{skull} MT1, Rogue1, Mage1, Warr1 Backup
+{x} MT2, Rogue2, Mage2, Warr2 Backup
+{moon} WL1
 
-Add Tank Heal: {star} 
-Boss Tank Heal: {circle} 
+{square} Range & healers gather
 
-Tactics:
-{skull} 
-{x} 
-{square} 
-{moon} 
-
-Tips:
+Tactics: Dont stand in fire, move as 1
+Tips: Keep the tank alive!
