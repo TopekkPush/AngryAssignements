@@ -1,1 +1,14 @@
+Consumes: 
 
+{skull} MT1, caster
+{x} MT2, rogues, hunter
+{square} MT3, warriors
+
+Tactics:
+Troll form:  {skull} Caster DPS {x} Rogues and Hunters (remove BL) {square} Warriors. 
+             DPS stop (/dance) at 20% listen to coms. 
+             All three Mobs have to die at the same time!
+Tiger form:  Position in the alcove at {moon}(force punch) DPS Tigers ASAP. Hunter remove Frenzy. 
+             At 20% all Healers assigned to tanks swap to MT1
+
+Tips: Dont die
