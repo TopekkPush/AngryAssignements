@@ -1,6 +1,23 @@
+https://www.wowace.com/projects/angry-assignments
+
 Highlight Tags
-  dps healer tank "name" "nickname" "group" "G*"
+  dps | healer | tank "name" "nickname" "group" "G*"
   
 Permisson
-  Raider: Allow all (can also be specific)
+  Raider: Allow all (can also be specific, its up to the player)
   Officer: Allow from specific
+
+As a Raider:
+  Set a Keybind to "Toggle Display"
+  Check permissions
+  Place AA somewhere readable
+  
+As a Officer:
+  Set a Keybind to "Toggle Window"
+  Check permissions
+  Load up to date AA (https://github.com/TopekkPush/AngryAssignments) or edit existing ones.
+  Broadcast Assignments to the raid
+
+Raid target icons can be inserted with {rt1} ... {rt8}, 
+or the symbol names: 
+{star}, {circle}, {diamond}, {triangle}, {moon}, {square}, {cross}/{x}, {skull}.
