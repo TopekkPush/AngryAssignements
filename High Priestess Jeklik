@@ -1,0 +1,18 @@
+Consumes: 
+
+{skull} MT1, Rogue1, Rogue2, Warr1, Warr2, Mage1 & Mage2 Backup
+{x} (Bats) MT2, MT3
+{square} Hunter1
+{moon} Raidleader Caster&Healer Group
+
+Tactics:
+P1: Healers use strong group heals to keep melee alive
+    Melee hug the boss as close as you can
+    Range and Healer stay on {moon}
+P2: At 50% start kick rotation, announce in Discord "Rogue1 kicked heal" "Rogue2 kicked mindflay"
+    {square} Will position at min bow range (min8y max40y) {moon} at max range to boss
+    Move the boss when a bomb drops in melee camp {moon} circle around the boss when bomb drops
+
+Tips: 
+Interrupt heals (prio)
+You can see the adds before they get targetable!
