@@ -1,0 +1,16 @@
+Consumes: 
+
+{skull} MT1, MT2, MT3
+{x} Hunter1, Hunter2, Mage1, Mage2
+{square} Hunter1, Hunter2, Hunter3
+
+Tactics:
+Pull:   Spread out in the whole room and let MTs build threat (/dance)
+Phase:  "Cause Insanity" will be cast on the MT, he wont lose threat but is MC'd for the duration.
+        "Son of Hakkar" needs to be missdirected to the raid and sheeped by Mages
+Siphon: Stack at {square}
+        AOE adds and every raid member needs to get "Poisonoues Blood" debuff from the puddle the adds left behind
+        Healers top off the raid before "Blood Siphon"
+       
+Tips: Tanks use all AOE abilities like taunt etc. on CD for MC (Hakkar cant be taunted)
+      Corrupted Blood happens roughly every 20 seconds.
