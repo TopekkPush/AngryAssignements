@@ -1,0 +1,14 @@
+Consumes: 
+
+{skull} MT1, MT2, Rogue1, Rogue2, Warr1, Warr2, Priest1, Priest2
+{x} (Shades) Prio 1 // All Delusion debuffs
+{square} (Healing Ward) Prio 2
+{moon} (Brain Wash Totem) Prio 3
+
+Tactics:
+{skull} Dispell tank ASAP
+{skull} Rogue & Warrior keep up "Mortal Strike" and "Wound Poison" 
+{skull} is tanked on the bone pile, AOE skelletons ASAP
+Kill Prio: {x} Shade of Jin'do > {square} Powerful Healing Ward > {moon}  Brain Wash Totem > {skull} Jin'do the Hexxer
+
+Tips: Shades are immune to AOE!
