@@ -1,15 +1,16 @@
-Consumes: 
+|credSPECIALABILITY|r {Hunter}, {Druid}, {Rogue}
 
-Add Tank:  {star} 
-Boss Tank:  {circle}
 
-Add Tank Heal: {star} 
-Boss Tank Heal: {circle} 
+|credPhase1|r
 
-Tactics:
-{skull} 
-{x} 
-{square} 
-{moon} 
 
-Tips:
+|credPhase2|r
+
+
+
+{Tank}
+
+
+{Healer}
+
+{DPS}
