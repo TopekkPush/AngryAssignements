@@ -1,0 +1,19 @@
+|credFootball Teams|r 
+  Team1 Nemmeziz,Nemmeziz,Nemmeziz
+  Team2 Nemmeziz,Nemmeziz,Nemmeziz
+  Team3 Nemmeziz,Nemmeziz,Nemmeziz
+
+Soak {spell 312336} when your team is called.
+  Put the the round in the square (round)
+  Dont let it hit Obelisk, Players or the Edge of the room
+
+|cred---------------------------------|r
+
+Avoid {spell 311383} (pizza slices)
+
+{Tank}
+  Taunt each {spell 311551} and dont fall off the edge :)
+  
+{Healer} {damage}
+  Move away from your {spell 306228} image
+  
