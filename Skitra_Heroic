@@ -1,1 +1,18 @@
+|credPositioning|r 
+  Ranges stack on {Skull}
+  
+|credPhase1|r
+  Move to {X} with {spell 307937}
+  All ranges swap on the add.
+  
+  Use root and stuns on Image of Absolution
 
+|credPhase2|r
+  Illusions will be marked with raid markers by one person.
+  The matching mark will be called out by anyone.  
+{damage} Nuke the called out Illusion
+
+|cred---------------------------------|r
+
+{Tank} {Healer} Coordinate {spell 307977} 
+  Tanks swap and spot heal {damage] players that get hit.
