@@ -1,0 +1,23 @@
+Move from the raid with {spell 306692}
+Dont stand in the breath
+
+|credPhase1|r
+Loosely spread in the room to avoid {spell 307945}
+  Clear {Square} area for {spell 306692}
+
+|credPhase2|r
+Keep the loosley spread to avoid too many players get hit by {spell 306930}
+  Clear {Square} area for {spell 306692}
+{Healer} and {damage} soak {spell 308177}
+
+|credPhase3|r {spell 314736}
+Stack behind the boss and kite it around the room
+  Do not stand infront of the boss or in the puddle for too long
+
+|cred---------------------------------|r
+
+{Tank}
+Tank1 {spell 307471} Tank2 {spell 307472}
+
+{Healer}
+Spot Heal {spell 307358} targets
