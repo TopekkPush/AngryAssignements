@@ -3,18 +3,18 @@
 
 |credPhase1|r
 Raid stacked, {spell 306111} debuffs run out.
-  Healing CDs on each.
-Run away when {JournalID Galeblast} is cast.
-  Healing CD.
-Follow Raid Leader to safe spot when {JournalID Burning Cataclysm} is cast
+  {Healer} Healing CDs on each.
+Run away when {spell 306289} is cast.
+  {Healer} Healing CD.
+Follow Raid Leader to safe spot when {spell 306735} is cast
   Raidmarker
 
 |credPhase2|r
 Tanks gather Assasins
-Scale soakers make as much use of {JournalID Burning Madness}
+Scale soakers make as much use of {spell 307013}
 All {DPS} start from the back of the room to kill scales.
 
 {Tank}
-Swap Wrathion after {JournalID Searing Breath}
+Swap Wrathion after {spell 305978}
 {Healer}
 External CDs for Tanks before each Searing Breath
