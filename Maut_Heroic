@@ -7,8 +7,9 @@
 |credPhase1|r
   Place {spell 307805} close around the raid (from tanks to melees)
     Stay close to {spell 307839} and move into it when {spell 308044} is cast
-  
+    
   Move away from {spell 308903} {Tank} stay close to pickup the add
+    Tank the Add away from Maut and feed the third add to push him to P2.
     All range DPS swap on add
 
 |credPhase2|r
@@ -26,5 +27,5 @@
 {Healer}
   Save Raid CDs for Phase2
   
-{DPS}
+{damage}
   Use CDs in Phase1
