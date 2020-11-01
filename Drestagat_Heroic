@@ -1,16 +1,22 @@
-|credSPECIALABILITY|r {Hunter}, {Druid}, {Rogue}
+Dodge {spell 308995} and {spell 310406}
+Move away from people with {spell 310358}
 
+Only DPS Boss with {spell 308377}
 
-|credPhase1|r
+|credRange DPS|r
+DPS the eyes and interupt {spell 310552}
+DPS Maw
 
-
-|credPhase2|r
+|credMelee DPS|r
+DPS the tentacles while standing in {spell 310478}
+Dodge tentacle crash
 
 |cred---------------------------------|r
 
 {Tank}
-
+Swap on {spell 310277} and let it expire on adds
+One tank stay in range of the boss to prevent {spell 310246}
 
 {Healer}
-
-{damage}
+Keep players alive in {spell 310478}
+Counter heal the {spell 310563} debuff 
